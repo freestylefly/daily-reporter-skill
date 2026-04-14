@@ -1,5 +1,5 @@
 ---
-name: daily-reporter
+name: daily-reporter-skill
 description: >
   职场日报/周报/月报智能生成助手。将零碎的工作记录、会议笔记、聊天记录等碎片化信息，
   自动转化为结构清晰、成果导向的专业汇报文档。支持日报、周报、月报三种模式，
